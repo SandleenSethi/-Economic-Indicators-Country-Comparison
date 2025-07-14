@@ -20,8 +20,7 @@ Data was retrieved using the World Bank API and visualized using Power BI to unc
 
 ## Tools and Technologies
 
-- Power BI – for building and publishing dashboards  
-- Excel – for data cleaning and transformation  
+- Tableau – for data cleaning and building and publishing dashboards  
 - Python – for retrieving data using public APIs  
 - World Bank API – data source for GDP, inflation, and school enrollment
 
